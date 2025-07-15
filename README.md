@@ -2,6 +2,8 @@
 
 This is a fun little game app I made as part of my self-learning during my Software Engineering Apprenticeship.
 
+https://github.com/user-attachments/assets/4c9c2540-6f00-4dc1-8685-7035af002587
+
 ## How It's Made:
 
 **Tech used:** React with TypeScript
