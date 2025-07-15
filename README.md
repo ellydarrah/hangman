@@ -2,9 +2,7 @@
 
 This is a fun little game app I made as part of my self-learning during my Software Engineering Apprenticeship.
 
-
-https://github.com/user-attachments/assets/5444fa31-7c40-4628-9252-3e4e939bb136
-
+https://github.com/user-attachments/assets/4c9c2540-6f00-4dc1-8685-7035af002587
 
 ## How It's Made:
 
