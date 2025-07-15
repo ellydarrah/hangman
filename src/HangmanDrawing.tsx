@@ -1,3 +1,5 @@
+import React from "react";
+
 const HEAD = (
   <div
     style={{
@@ -94,7 +96,9 @@ type HangmanDrawingProps = {
 export function HangmanDrawing({ numberOfGuesses }: HangmanDrawingProps) {
   return (
     <div style={{ position: "relative" }}>
-      {BODY_PARTS.slice(0, numberOfGuesses)}
+      {BODY_PARTS.slice(0, numberOfGuesses).map((part, index) => (
+        <React.Fragment key={index}>{part}</React.Fragment>
+      ))}
       <div
         style={{
           height: "50px",
