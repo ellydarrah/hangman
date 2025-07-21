@@ -9,7 +9,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Elly Darrah",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
@@ -17,6 +17,7 @@
     "express": "^5.1.0"
   },
   "devDependencies": {
+    "@types/node": "^24.0.15",
     "nodemon": "^3.1.10"
   }
 }

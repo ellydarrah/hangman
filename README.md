@@ -1,22 +1,26 @@
 # Hangman Project
 
-This is a fun little game app I made as part of my self-learning during my Software Engineering Apprenticeship.
+This is a fun little game app I made as part of my self-learning during my Software Engineering Apprenticeship. As a stretch goal, I made this a fullstack project.
 
 https://github.com/user-attachments/assets/4c9c2540-6f00-4dc1-8685-7035af002587
 
 ## How It's Made:
 
-**Tech used:** React with TypeScript
+**Tech used:** React with TypeScript and Express/Node backend with Prisma ORM and SQLite database.
 
-Thanks to Web Dev Simplified for the tutorial that provided the base for this project: https://www.youtube.com/watch?v=-ONUyenGnWw
+**Thanks to:**
+
+- Web Dev Simplified for the hangman app tutorial that provided the base for this project: https://www.youtube.com/watch?v=-ONUyenGnWw
+- Arpan Neupane for the tutorial on creating an Express/Node backend: https://www.youtube.com/watch?v=mKmxc8TcWQ8
 
 ## How To Run It
 
-In the terminal: `npm i` then `npm run dev`.
+- Frontend: navigate to the client folder and run `npm i` then `npm run dev`.
+- Backend: navigate to the server folder and run and run `npm i` then `npm run dev` or `npm run start`.
 
 ## Note:
 
-- React.Strict mode is turned on, meaning that components render twice in dev.
+- React.Strict mode is turned on.
 
 ## Lessons Learned:
 
